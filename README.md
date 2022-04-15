@@ -2,6 +2,7 @@
 Projeto de testes de aceitação automatizados realizado no Store Theme da Vtex 
 
 Projeto: Store Theme da Vtex
+
 Dashboard Cypress: https://dashboard.cypress.io/projects/vhibj2/runs/
 
 Automação:
