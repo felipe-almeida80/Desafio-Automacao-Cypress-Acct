@@ -1,0 +1,14 @@
+{
+    "signup": {
+        "email": "felipe.almeida@acct.global",
+        "password": "Fe.123456"
+    },
+    "profile": {
+        "name": " Felipe",
+        "lastName": "Moreira de Almeida",
+        "birthDate": "03/28/1980",
+        "phoneNumber": "(408) 982-1544",
+        "adress": "Alameda Mamoré",
+        "zipCode": "90001"
+    }
+}
